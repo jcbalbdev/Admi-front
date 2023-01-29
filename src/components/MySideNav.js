@@ -7,7 +7,7 @@ function MySideNav( ) {
         }}>
             <SideNav.Toggle/>
             <SideNav.Nav defaultSelected = "home">
-                <NavIcon><i className='fa fa-fw fa-home' style={{fontSize:1.5em}}></i></NavIcon>
+                <NavIcon><i className='fa fa-fw fa-home' style={{fontSize:'1.5em'}}></i></NavIcon>
                 <NavText>Home</NavText>
             </SideNav.Nav>
 
